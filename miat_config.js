@@ -40,4 +40,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "McDonald's Survey"
+const survey_name = "Royal Canin Survey France"
