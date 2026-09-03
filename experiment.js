@@ -1498,7 +1498,7 @@ const preload = {
    'img/purina.png',
    'img/royalcanin.png', 
    'img/ultima.png',
-   'img/virbac.png'
+   'img/virbac.png',
     'img/ultra.png'
   ]
 }
