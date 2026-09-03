@@ -1,16 +1,17 @@
 const brands = [
-    { name: "Burger_king", img: "img/Burger_king.png" },
-    { name: "Dominos", img: "img/Dominos.png" }, 
-    { name: "KFC", img:"img/KFC.png" }, 
-    { name: "MacD", img:"img/MacD.png" },
-    { name: "O_tacos", img: "img/O_tacos.png" },
-    { name: "Quick", img: "img/Quick.png" },
-    { name: "Subway", img: "img/Subway.png" }
+    { name: "Hill's", img: "img/hills.png" },
+    { name: "Royal Canin", img: "img/royalcanin.png" }, 
+    { name: "Purina Pro Plan", img:"img/Purina.png" }, 
+    { name: "Edgard Cooper", img:"img/edgard.png" },
+    { name: "Virbac", img: "img/virbac.png" },
+    { name: "Orijen", img: "img/orijen.png" },
+    { name: "Ultra Premium Direct", img: "img/ultra.png" },
+    { name: "Ultima", img: "img/ultima.png" }
   ];
 
-const category = "Restaurants à service rapide"
+const category = "Nourriture pour animaux de compagnie"
 
-const attributes = ["Liberté","Impulsif","Découverte","Échappatoire","Non conformisme","Dynamique","Libération","Audace","Fierté","Perfection","Confiance","Autonomie","Optimisation","Indépendance","Contrôle","Raison","Efficacité","Pragmatique","Simple","Pratique","Valeur","Cohérence","Fiable","Accessibilité","Sécurité","Bienveillance","Proximité","Unité","Sérénité","Se sentir comme à la maison","Confort","Appartenance","Fiable","Nostalgie","Accompagnement","Engagement","Joie","Se faire plaisir","Insousiance","Plaisir","Soulagement","Optimisme","Ouverture","Être bien dans ma peau","Satisfaction","Excitation","Inspirant","Vivant","Fun","Ludique","Individualité","Exploration","Curiosité","Anticipation","Energie","Créativité","Surprise"];
+const attributes = ["Liberté","Découverte","Esprit de combat","Non-conformisme","Dynamique","Résilience","Audace","Vigueur","Transformation","Unicité","Fierté","Perfection","Sophistication","Donner le meilleur de moi-même","Confiance","Optimisation","Force","Aspiration","Croissance","Supériorité","Puissance","Contrôle","Efficacité","Précision","Simplicité","Expertise","Éprouvé","Scientifique","Proactif","Fiable","Bienveillance","Esprit de communauté","Sentiment d’harmonie","Protection","Tranquillité d’esprit","Dévouement","Longévité","Compagnie","Restauration","Compréhension","Joie","Insouciance","Plaisir","Optimisme","Naturel","Bonheur","Espoir","Amour","Bien-être","Calme","Enthousiasme","Joie de vivre","Vitalité","Esprit ludique","Individualité","Énergie","Proactif","Épanouissement","Extraordinaire"];
 
 const pretest_attributes = [
   "Chaud", 
@@ -40,4 +41,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "McDonald's Survey"
+const survey_name = "Royal_Canin_Survey_France"
