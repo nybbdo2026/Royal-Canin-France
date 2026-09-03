@@ -1492,13 +1492,14 @@ const preload = {
    'pretest_img/pretest_icecube.png',
    'pretest_img/pretest_ocean.png',
    'pretest_img/pretest_clock.png',
-   'img/Burger_king.png',
-   'img/Dominos.png',
-   'img/KFC.png',
-   'img/MacD.png',
-   'img/O_tacos.png', 
-   'img/Quick.png',
-   'img/Subway.png'
+   'img/edgard.png',
+   'img/hills.png',
+   'img/orijen.png',
+   'img/purina.png',
+   'img/royalcanin.png', 
+   'img/ultima.png',
+   'img/virbac.png'
+    'img/ultra.png'
   ]
 }
 
