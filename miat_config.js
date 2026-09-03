@@ -9,11 +9,8 @@ const brands = [
     { name: "Ultima", img: "img/ultima.png" }
   ];
 
-<<<<<<< HEAD
 const category = "Nourriture pour animaux de compagnie"
-=======
-const category = "Nourriture pour animaux"
->>>>>>> 015209081b4782d8b873c2250cf26a85d7682438
+
 
 const attributes = ["Liberté","Découverte","Esprit de combat","Non-conformisme","Dynamique","Résilience","Audace","Vigueur","Transformation","Unicité","Fierté","Perfection","Sophistication","Donner le meilleur de moi-même","Confiance","Optimisation","Force","Aspiration","Croissance","Supériorité","Puissance","Contrôle","Efficacité","Précision","Simplicité","Expertise","Éprouvé","Scientifique","Proactif","Fiable","Bienveillance","Esprit de communauté","Sentiment d’harmonie","Protection","Tranquillité d’esprit","Dévouement","Longévité","Compagnie","Restauration","Compréhension","Joie","Insouciance","Plaisir","Optimisme","Naturel","Bonheur","Espoir","Amour","Bien-être","Calme","Enthousiasme","Joie de vivre","Vitalité","Esprit ludique","Individualité","Énergie","Proactif","Épanouissement","Extraordinaire"];
 
