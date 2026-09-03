@@ -43,8 +43,5 @@ const pretest_images_multiple = [
 ]
 
 
-<<<<<<< HEAD
-const survey_name = "Royal_Canin_Survey_France"
-=======
 const survey_name = "Royal Canin Survey France"
->>>>>>> 015209081b4782d8b873c2250cf26a85d7682438
+
