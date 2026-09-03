@@ -8,7 +8,7 @@ const brands = [
     { name: "Subway", img: "img/Subway.png" }
   ];
 
-const category = "Restaurants à service rapide"
+const category = "Nourriture pour animaux"
 
 const attributes = ["Liberté","Impulsif","Découverte","Échappatoire","Non conformisme","Dynamique","Libération","Audace","Fierté","Perfection","Confiance","Autonomie","Optimisation","Indépendance","Contrôle","Raison","Efficacité","Pragmatique","Simple","Pratique","Valeur","Cohérence","Fiable","Accessibilité","Sécurité","Bienveillance","Proximité","Unité","Sérénité","Se sentir comme à la maison","Confort","Appartenance","Fiable","Nostalgie","Accompagnement","Engagement","Joie","Se faire plaisir","Insousiance","Plaisir","Soulagement","Optimisme","Ouverture","Être bien dans ma peau","Satisfaction","Excitation","Inspirant","Vivant","Fun","Ludique","Individualité","Exploration","Curiosité","Anticipation","Energie","Créativité","Surprise"];
 
